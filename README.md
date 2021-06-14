@@ -4,6 +4,8 @@ Team Members
 
 - Bienvenido (Ben) Rodriguez
 
+Some info that will not be in my local repo
+
 ## Setup
 
 To use this as boilerplate, you'll need to take the following steps:
