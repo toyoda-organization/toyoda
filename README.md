@@ -3,6 +3,7 @@
 Team Members
 
 - Bienvenido (Ben) Rodriguez
+- Natalie Lane
 
 Some info that will not be in my local repo
 
