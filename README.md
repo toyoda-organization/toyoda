@@ -3,6 +3,7 @@
 Team Members
 
 - Bienvenido (Ben) Rodriguez
+- Natalie Lane
 
 ## Setup
 
